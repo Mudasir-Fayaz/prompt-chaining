@@ -145,12 +145,13 @@ Prompt 6: Monitor and refine.
 
 **Goal:** Prepare for a mock interview to win high-value freelance clients.
 
-````markdown
+```markdown
 {CLIENT_NAME}=Name of the potential client  
 {PROJECT_NAME}=Name or description of the client's project  
 {KEY_REQUIREMENTS}=Key skills or deliverables required for the project  
 {PAST_PROJECTS}=Relevant past projects or achievements  
 {QUESTIONS_TO_ASK}=Questions you want to ask the client
+```
 
 ### Prompts:
 
@@ -179,7 +180,6 @@ Prompt 7. Simulate the interview.
 Prompt 8. Reflect and improve.  
 "Review your performance, identify strengths and weaknesses, and refine your pitch. Repeat until you feel confident."
 ```
-````
 
 # Prompt Chain 5: Creating a Winning Proposal for Online Gigs
 
