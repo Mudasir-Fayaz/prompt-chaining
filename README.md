@@ -39,6 +39,11 @@ In simple terms, prompt chaining is like giving instructions to a friend one at 
 
 If you're looking to streamline your workflow and get the most out of AI-generated prompts, simply copy and paste these structured prompt chains into the **Auto Prompter** feature of the [GPT SmartKit](https://chromewebstore.google.com/detail/gpt-smartkit/hffjcekkoiocpmninoijcnaafgmdmoke) extension. This will help you automate content creation, brainstorming, troubleshooting, and more with ease.
 
+### Support My Work & Keep Me Motivated
+
+If you find my resources and tools helpful, your support means the world to me! Every bit of encouragement keeps me inspired to create more valuable content, develop new tools and share useful insights with you. Whether it's feedback, sharing my work, or just a kind word, it all helps fuel my passion for contributing more. Let’s grow and learn together—your support drives me to do even better...
+[**Support Me Here**](https://buymeacoffee/mudasirfayaz)
+
 # Prompt Chain 1: Ad Copywriting – Write Persuasive Advertising Text
 
 **Goal:** Create compelling ad copy that increases conversions and engagement.
