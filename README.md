@@ -44,6 +44,12 @@ If you're looking to streamline your workflow and get the most out of AI-generat
 If you find my resources and tools helpful, your support means the world to me! Every bit of encouragement keeps me inspired to create more valuable content, develop new tools and share useful insights with you. Whether it's feedback, sharing my work, or just a kind word, it all helps fuel my passion for contributing more. Let’s grow and learn together—your support drives me to do even better...
 [**Support Me Here**](https://buymeacoffee.com/mudasirfayaz)
 
+## Subscribe GPT Prompter
+
+Join GPT Prompter for latest AI Prompts and Tools related information...
+
+[Telegram](https://t.me/GPT_Prompter) - [Twitter](https://twitter.com/GPTPrompter) - [WhatsApp](https://whatsapp.com/channel/0029Vb1lBz82Jl8Djy0ja145)
+
 ## Prompt Chain 1: Ad Copywriting – Write Persuasive Advertising Text
 
 **Goal:** Create compelling ad copy that increases conversions and engagement.
